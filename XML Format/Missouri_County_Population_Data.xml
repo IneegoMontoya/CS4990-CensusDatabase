@@ -1,0 +1,2054 @@
+<DATA>
+
+	<ROW>
+		<name>Andrew</name>
+		<area>432.7031817</area>
+		<location>Andrew County, Missouri</location>
+		<Population 1900>17332</Population 1900>
+		<Population 1910>15282</Population 1910>
+		<Population 1920>14075</Population 1920>
+		<Population 1930>13469</Population 1930>
+		<Population 1940>13015</Population 1940>
+		<Population 1950>11727</Population 1950>
+		<Population 1960>11062</Population 1960>
+		<Population 1970>11913</Population 1970>
+		<Population 1980>13980</Population 1980>
+		<Population 1990>14632</Population 1990>
+		<Population 2000>16492</Population 2000>
+		<Population 2010>17347</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Audrain</name>
+		<area>692.2346414</area>
+		<location>Audrain County, Missouri</location>
+		<Population 1900>21160</Population 1900>
+		<Population 1910>21687</Population 1910>
+		<Population 1920>20589</Population 1920>
+		<Population 1930>22077</Population 1930>
+		<Population 1940>22673</Population 1940>
+		<Population 1950>23829</Population 1950>
+		<Population 1960>26079</Population 1960>
+		<Population 1970>25362</Population 1970>
+		<Population 1980>26458</Population 1980>
+		<Population 1990>23599</Population 1990>
+		<Population 2000>25853</Population 2000>
+		<Population 2010>25868</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Bates</name>
+		<area>836.6883387</area>
+		<location>Bates County, Missouri</location>
+		<Population 1900>30141</Population 1900>
+		<Population 1910>25869</Population 1910>
+		<Population 1920>23933</Population 1920>
+		<Population 1930>22068</Population 1930>
+		<Population 1940>19531</Population 1940>
+		<Population 1950>17534</Population 1950>
+		<Population 1960>15905</Population 1960>
+		<Population 1970>15468</Population 1970>
+		<Population 1980>15873</Population 1980>
+		<Population 1990>15025</Population 1990>
+		<Population 2000>16653</Population 2000>
+		<Population 2010>16513</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Caldwell</name>
+		<area>426.3919549</area>
+		<location>Caldwell County, Missouri</location>
+		<Population 1900>16656</Population 1900>
+		<Population 1910>14605</Population 1910>
+		<Population 1920>13849</Population 1920>
+		<Population 1930>12509</Population 1930>
+		<Population 1940>11629</Population 1940>
+		<Population 1950>9929</Population 1950>
+		<Population 1960>8830</Population 1960>
+		<Population 1970>8351</Population 1970>
+		<Population 1980>8660</Population 1980>
+		<Population 1990>8380</Population 1990>
+		<Population 2000>8969</Population 2000>
+		<Population 2010>9057</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Cape Girardeau</name>
+		<area>578.5345677</area>
+		<location>Cape Girardeau County, Missouri</location>
+		<Population 1900>24315</Population 1900>
+		<Population 1910>27621</Population 1910>
+		<Population 1920>29839</Population 1920>
+		<Population 1930>33203</Population 1930>
+		<Population 1940>37775</Population 1940>
+		<Population 1950>38397</Population 1950>
+		<Population 1960>42020</Population 1960>
+		<Population 1970>49350</Population 1970>
+		<Population 1980>58837</Population 1980>
+		<Population 1990>61633</Population 1990>
+		<Population 2000>68693</Population 2000>
+		<Population 2010>78089</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Carroll</name>
+		<area>694.6213495</area>
+		<location>Carroll County, Missouri</location>
+		<Population 1900>26455</Population 1900>
+		<Population 1910>23098</Population 1910>
+		<Population 1920>20480</Population 1920>
+		<Population 1930>19940</Population 1930>
+		<Population 1940>17814</Population 1940>
+		<Population 1950>15589</Population 1950>
+		<Population 1960>13847</Population 1960>
+		<Population 1970>12565</Population 1970>
+		<Population 1980>12131</Population 1980>
+		<Population 1990>10748</Population 1990>
+		<Population 2000>10285</Population 2000>
+		<Population 2010>9009</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Cass</name>
+		<area>696.5827692</area>
+		<location>Cass County, Missouri</location>
+		<Population 1900>23636</Population 1900>
+		<Population 1910>22973</Population 1910>
+		<Population 1920>21536</Population 1920>
+		<Population 1930>20962</Population 1930>
+		<Population 1940>19534</Population 1940>
+		<Population 1950>19325</Population 1950>
+		<Population 1960>29702</Population 1960>
+		<Population 1970>39448</Population 1970>
+		<Population 1980>51029</Population 1980>
+		<Population 1990>63808</Population 1990>
+		<Population 2000>82092</Population 2000>
+		<Population 2010>101324</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Chariton</name>
+		<area>751.1767828</area>
+		<location>Chariton County, Missouri</location>
+		<Population 1900>26826</Population 1900>
+		<Population 1910>23503</Population 1910>
+		<Population 1920>21769</Population 1920>
+		<Population 1930>19588</Population 1930>
+		<Population 1940>18084</Population 1940>
+		<Population 1950>14944</Population 1950>
+		<Population 1960>12720</Population 1960>
+		<Population 1970>11084</Population 1970>
+		<Population 1980>10489</Population 1980>
+		<Population 1990>9202</Population 1990>
+		<Population 2000>8438</Population 2000>
+		<Population 2010>7615</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Clark</name>
+		<area>504.6922208</area>
+		<location>Clark County, Missouri</location>
+		<Population 1900>15383</Population 1900>
+		<Population 1910>12811</Population 1910>
+		<Population 1920>11874</Population 1920>
+		<Population 1930>10254</Population 1930>
+		<Population 1940>10166</Population 1940>
+		<Population 1950>9003</Population 1950>
+		<Population 1960>8725</Population 1960>
+		<Population 1970>8260</Population 1970>
+		<Population 1980>8493</Population 1980>
+		<Population 1990>7547</Population 1990>
+		<Population 2000>7416</Population 2000>
+		<Population 2010>6860</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Dade</name>
+		<area>490.0110475</area>
+		<location>Dade County, Missouri</location>
+		<Population 1900>18125</Population 1900>
+		<Population 1910>15613</Population 1910>
+		<Population 1920>14173</Population 1920>
+		<Population 1930>11764</Population 1930>
+		<Population 1940>11248</Population 1940>
+		<Population 1950>9324</Population 1950>
+		<Population 1960>7577</Population 1960>
+		<Population 1970>6850</Population 1970>
+		<Population 1980>7383</Population 1980>
+		<Population 1990>7449</Population 1990>
+		<Population 2000>7923</Population 2000>
+		<Population 2010>7590</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Franklin</name>
+		<area>922.681441</area>
+		<location>Franklin County, Missouri</location>
+		<Population 1900>30581</Population 1900>
+		<Population 1910>29830</Population 1910>
+		<Population 1920>28427</Population 1920>
+		<Population 1930>30519</Population 1930>
+		<Population 1940>33868</Population 1940>
+		<Population 1950>36046</Population 1950>
+		<Population 1960>44566</Population 1960>
+		<Population 1970>55127</Population 1970>
+		<Population 1980>71233</Population 1980>
+		<Population 1990>80603</Population 1990>
+		<Population 2000>93807</Population 2000>
+		<Population 2010>102063</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Gasconade</name>
+		<area>519.0041752</area>
+		<location>Gasconade County, Missouri</location>
+		<Population 1900>12298</Population 1900>
+		<Population 1910>12847</Population 1910>
+		<Population 1920>12381</Population 1920>
+		<Population 1930>12172</Population 1930>
+		<Population 1940>12414</Population 1940>
+		<Population 1950>12342</Population 1950>
+		<Population 1960>12195</Population 1960>
+		<Population 1970>11878</Population 1970>
+		<Population 1980>13181</Population 1980>
+		<Population 1990>14006</Population 1990>
+		<Population 2000>15342</Population 2000>
+		<Population 2010>14875</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Gentry</name>
+		<area>491.421651</area>
+		<location>Gentry County, Missouri</location>
+		<Population 1900>20554</Population 1900>
+		<Population 1910>16820</Population 1910>
+		<Population 1920>15634</Population 1920>
+		<Population 1930>14348</Population 1930>
+		<Population 1940>13359</Population 1940>
+		<Population 1950>11036</Population 1950>
+		<Population 1960>8793</Population 1960>
+		<Population 1970>8060</Population 1970>
+		<Population 1980>7887</Population 1980>
+		<Population 1990>6848</Population 1990>
+		<Population 2000>6861</Population 2000>
+		<Population 2010>6745</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Harrison</name>
+		<area>722.5037062</area>
+		<location>Harrison County, Missouri</location>
+		<Population 1900>24398</Population 1900>
+		<Population 1910>20466</Population 1910>
+		<Population 1920>19719</Population 1920>
+		<Population 1930>17233</Population 1930>
+		<Population 1940>16525</Population 1940>
+		<Population 1950>14107</Population 1950>
+		<Population 1960>11603</Population 1960>
+		<Population 1970>10257</Population 1970>
+		<Population 1980>9890</Population 1980>
+		<Population 1990>8469</Population 1990>
+		<Population 2000>8850</Population 2000>
+		<Population 2010>8649</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Henry</name>
+		<area>696.9433993</area>
+		<location>Henry County, Missouri</location>
+		<Population 1900>28054</Population 1900>
+		<Population 1910>27242</Population 1910>
+		<Population 1920>25116</Population 1920>
+		<Population 1930>22931</Population 1930>
+		<Population 1940>22313</Population 1940>
+		<Population 1950>20043</Population 1950>
+		<Population 1960>19226</Population 1960>
+		<Population 1970>18451</Population 1970>
+		<Population 1980>19672</Population 1980>
+		<Population 1990>20044</Population 1990>
+		<Population 2000>21997</Population 2000>
+		<Population 2010>21930</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Holt</name>
+		<area>462.6928985</area>
+		<location>Holt County, Missouri</location>
+		<Population 1900>17083</Population 1900>
+		<Population 1910>14539</Population 1910>
+		<Population 1920>14084</Population 1920>
+		<Population 1930>12720</Population 1930>
+		<Population 1940>12476</Population 1940>
+		<Population 1950>9833</Population 1950>
+		<Population 1960>7885</Population 1960>
+		<Population 1970>6654</Population 1970>
+		<Population 1980>6882</Population 1980>
+		<Population 1990>6034</Population 1990>
+		<Population 2000>5351</Population 2000>
+		<Population 2010>4537</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Howard</name>
+		<area>463.7828398</area>
+		<location>Howard County, Missouri</location>
+		<Population 1900>18337</Population 1900>
+		<Population 1910>15653</Population 1910>
+		<Population 1920>13997</Population 1920>
+		<Population 1930>13490</Population 1930>
+		<Population 1940>13026</Population 1940>
+		<Population 1950>11857</Population 1950>
+		<Population 1960>10859</Population 1960>
+		<Population 1970>10561</Population 1970>
+		<Population 1980>10008</Population 1980>
+		<Population 1990>9631</Population 1990>
+		<Population 2000>10212</Population 2000>
+		<Population 2010>10148</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Howell</name>
+		<area>927.2480091</area>
+		<location>Howell County, Missouri</location>
+		<Population 1900>21834</Population 1900>
+		<Population 1910>21065</Population 1910>
+		<Population 1920>21102</Population 1920>
+		<Population 1930>19672</Population 1930>
+		<Population 1940>22270</Population 1940>
+		<Population 1950>22725</Population 1950>
+		<Population 1960>22027</Population 1960>
+		<Population 1970>23521</Population 1970>
+		<Population 1980>28807</Population 1980>
+		<Population 1990>31447</Population 1990>
+		<Population 2000>37238</Population 2000>
+		<Population 2010>40265</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Jefferson</name>
+		<area>656.6523</area>
+		<location>Jefferson County, Missouri</location>
+		<Population 1900>25712</Population 1900>
+		<Population 1910>27878</Population 1910>
+		<Population 1920>26555</Population 1920>
+		<Population 1930>27563</Population 1930>
+		<Population 1940>32023</Population 1940>
+		<Population 1950>38007</Population 1950>
+		<Population 1960>66377</Population 1960>
+		<Population 1970>105647</Population 1970>
+		<Population 1980>146183</Population 1980>
+		<Population 1990>171380</Population 1990>
+		<Population 2000>198099</Population 2000>
+		<Population 2010>222453</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Johnson</name>
+		<area>829.2828305</area>
+		<location>Johnson County, Missouri</location>
+		<Population 1900>27843</Population 1900>
+		<Population 1910>26297</Population 1910>
+		<Population 1920>24899</Population 1920>
+		<Population 1930>22413</Population 1930>
+		<Population 1940>21617</Population 1940>
+		<Population 1950>20716</Population 1950>
+		<Population 1960>28981</Population 1960>
+		<Population 1970>34172</Population 1970>
+		<Population 1980>39059</Population 1980>
+		<Population 1990>42514</Population 1990>
+		<Population 2000>48258</Population 2000>
+		<Population 2010>54229</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Knox</name>
+		<area>504.0085581</area>
+		<location>Knox County, Missouri</location>
+		<Population 1900>13479</Population 1900>
+		<Population 1910>12403</Population 1910>
+		<Population 1920>10783</Population 1920>
+		<Population 1930>9658</Population 1930>
+		<Population 1940>8878</Population 1940>
+		<Population 1950>7617</Population 1950>
+		<Population 1960>6558</Population 1960>
+		<Population 1970>5692</Population 1970>
+		<Population 1980>5508</Population 1980>
+		<Population 1990>4482</Population 1990>
+		<Population 2000>4361</Population 2000>
+		<Population 2010>3997</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Lafayette</name>
+		<area>628.4352056</area>
+		<location>Lafayette County, Missouri</location>
+		<Population 1900>31679</Population 1900>
+		<Population 1910>30154</Population 1910>
+		<Population 1920>30006</Population 1920>
+		<Population 1930>29259</Population 1930>
+		<Population 1940>27856</Population 1940>
+		<Population 1950>25272</Population 1950>
+		<Population 1960>25274</Population 1960>
+		<Population 1970>26626</Population 1970>
+		<Population 1980>29925</Population 1980>
+		<Population 1990>31107</Population 1990>
+		<Population 2000>32960</Population 2000>
+		<Population 2010>32789</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Lewis</name>
+		<area>505.0417365</area>
+		<location>Lewis County, Missouri</location>
+		<Population 1900>16724</Population 1900>
+		<Population 1910>15514</Population 1910>
+		<Population 1920>13465</Population 1920>
+		<Population 1930>12093</Population 1930>
+		<Population 1940>11490</Population 1940>
+		<Population 1950>10733</Population 1950>
+		<Population 1960>10984</Population 1960>
+		<Population 1970>10993</Population 1970>
+		<Population 1980>10901</Population 1980>
+		<Population 1990>10233</Population 1990>
+		<Population 2000>10494</Population 2000>
+		<Population 2010>10146</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Linn</name>
+		<area>615.56378</area>
+		<location>Linn County, Missouri</location>
+		<Population 1900>25503</Population 1900>
+		<Population 1910>25253</Population 1910>
+		<Population 1920>24778</Population 1920>
+		<Population 1930>23339</Population 1930>
+		<Population 1940>21416</Population 1940>
+		<Population 1950>18865</Population 1950>
+		<Population 1960>16815</Population 1960>
+		<Population 1970>15125</Population 1970>
+		<Population 1980>15495</Population 1980>
+		<Population 1990>13885</Population 1990>
+		<Population 2000>13754</Population 2000>
+		<Population 2010>12319</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Macon</name>
+		<area>801.2072595</area>
+		<location>Macon County, Missouri</location>
+		<Population 1900>13574</Population 1900>
+		<Population 1910>13539</Population 1910>
+		<Population 1920>14690</Population 1920>
+		<Population 1930>13936</Population 1930>
+		<Population 1940>15749</Population 1940>
+		<Population 1950>14144</Population 1950>
+		<Population 1960>11798</Population 1960>
+		<Population 1970>12357</Population 1970>
+		<Population 1980>14917</Population 1980>
+		<Population 1990>16938</Population 1990>
+		<Population 2000>21681</Population 2000>
+		<Population 2010>22720</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Maries</name>
+		<area>526.9787808</area>
+		<location>Maries County, Missouri</location>
+		<Population 1900>9975</Population 1900>
+		<Population 1910>11273</Population 1910>
+		<Population 1920>10721</Population 1920>
+		<Population 1930>9418</Population 1930>
+		<Population 1940>9656</Population 1940>
+		<Population 1950>10380</Population 1950>
+		<Population 1960>9366</Population 1960>
+		<Population 1970>8641</Population 1970>
+		<Population 1980>10725</Population 1980>
+		<Population 1990>11127</Population 1990>
+		<Population 2000>11800</Population 2000>
+		<Population 2010>12403</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Marion</name>
+		<area>436.9236348</area>
+		<location>Marion County, Missouri</location>
+		<Population 1900>9616</Population 1900>
+		<Population 1910>10088</Population 1910>
+		<Population 1920>9500</Population 1920>
+		<Population 1930>8368</Population 1930>
+		<Population 1940>8638</Population 1940>
+		<Population 1950>7423</Population 1950>
+		<Population 1960>7282</Population 1960>
+		<Population 1970>6851</Population 1970>
+		<Population 1980>7551</Population 1980>
+		<Population 1990>7976</Population 1990>
+		<Population 2000>8903</Population 2000>
+		<Population 2010>8987</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Mercer</name>
+		<area>453.8349959</area>
+		<location>Mercer County, Missouri</location>
+		<Population 1900>14706</Population 1900>
+		<Population 1910>12335</Population 1910>
+		<Population 1920>11281</Population 1920>
+		<Population 1930>9350</Population 1930>
+		<Population 1940>8766</Population 1940>
+		<Population 1950>7235</Population 1950>
+		<Population 1960>5750</Population 1960>
+		<Population 1970>4910</Population 1970>
+		<Population 1980>4685</Population 1980>
+		<Population 1990>3723</Population 1990>
+		<Population 2000>3757</Population 2000>
+		<Population 2010>3702</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Miller</name>
+		<area>592.59446</area>
+		<location>Miller County, Missouri</location>
+		<Population 1900>15187</Population 1900>
+		<Population 1910>16717</Population 1910>
+		<Population 1920>15567</Population 1920>
+		<Population 1930>16728</Population 1930>
+		<Population 1940>14798</Population 1940>
+		<Population 1950>13734</Population 1950>
+		<Population 1960>13800</Population 1960>
+		<Population 1970>15026</Population 1970>
+		<Population 1980>18532</Population 1980>
+		<Population 1990>20700</Population 1990>
+		<Population 2000>23564</Population 2000>
+		<Population 2010>25011</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Monroe</name>
+		<area>647.6530601</area>
+		<location>Monroe County, Missouri</location>
+		<Population 1900>19716</Population 1900>
+		<Population 1910>18304</Population 1910>
+		<Population 1920>16414</Population 1920>
+		<Population 1930>13466</Population 1930>
+		<Population 1940>13195</Population 1940>
+		<Population 1950>11314</Population 1950>
+		<Population 1960>10688</Population 1960>
+		<Population 1970>9542</Population 1970>
+		<Population 1980>9716</Population 1980>
+		<Population 1990>9104</Population 1990>
+		<Population 2000>9311</Population 2000>
+		<Population 2010>8642</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Montgomery</name>
+		<area>535.0467658</area>
+		<location>Montgomery County, Missouri</location>
+		<Population 1900>16571</Population 1900>
+		<Population 1910>15604</Population 1910>
+		<Population 1920>15233</Population 1920>
+		<Population 1930>13011</Population 1930>
+		<Population 1940>12442</Population 1940>
+		<Population 1950>11555</Population 1950>
+		<Population 1960>11097</Population 1960>
+		<Population 1970>11000</Population 1970>
+		<Population 1980>11537</Population 1980>
+		<Population 1990>11355</Population 1990>
+		<Population 2000>12136</Population 2000>
+		<Population 2010>11820</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Newton</name>
+		<area>624.753291</area>
+		<location>Newton County, Missouri</location>
+		<Population 1900>27001</Population 1900>
+		<Population 1910>27136</Population 1910>
+		<Population 1920>24886</Population 1920>
+		<Population 1930>26959</Population 1930>
+		<Population 1940>29039</Population 1940>
+		<Population 1950>28240</Population 1950>
+		<Population 1960>30093</Population 1960>
+		<Population 1970>32901</Population 1970>
+		<Population 1980>40555</Population 1980>
+		<Population 1990>44445</Population 1990>
+		<Population 2000>52636</Population 2000>
+		<Population 2010>18229</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Osage</name>
+		<area>606.5730582</area>
+		<location>Osage County, Missouri</location>
+		<Population 1900>14096</Population 1900>
+		<Population 1910>14283</Population 1910>
+		<Population 1920>13559</Population 1920>
+		<Population 1930>12462</Population 1930>
+		<Population 1940>12375</Population 1940>
+		<Population 1950>11301</Population 1950>
+		<Population 1960>10867</Population 1960>
+		<Population 1970>10994</Population 1970>
+		<Population 1980>12014</Population 1980>
+		<Population 1990>12018</Population 1990>
+		<Population 2000>13062</Population 2000>
+		<Population 2010>13704</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Perry</name>
+		<area>474.3553423</area>
+		<location>Perry County, Missouri</location>
+		<Population 1900>15134</Population 1900>
+		<Population 1910>14898</Population 1910>
+		<Population 1920>14434</Population 1920>
+		<Population 1930>13707</Population 1930>
+		<Population 1940>15358</Population 1940>
+		<Population 1950>14890</Population 1950>
+		<Population 1960>14642</Population 1960>
+		<Population 1970>14393</Population 1970>
+		<Population 1980>16784</Population 1980>
+		<Population 1990>16648</Population 1990>
+		<Population 2000>18132</Population 2000>
+		<Population 2010>19152</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Phelps</name>
+		<area>671.7781945</area>
+		<location>Phelps County, Missouri</location>
+		<Population 1900>14194</Population 1900>
+		<Population 1910>15796</Population 1910>
+		<Population 1920>14941</Population 1920>
+		<Population 1930>15308</Population 1930>
+		<Population 1940>17437</Population 1940>
+		<Population 1950>21504</Population 1950>
+		<Population 1960>25396</Population 1960>
+		<Population 1970>29481</Population 1970>
+		<Population 1980>33633</Population 1980>
+		<Population 1990>35248</Population 1990>
+		<Population 2000>39825</Population 2000>
+		<Population 2010>44833</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Polk</name>
+		<area>635.5261951</area>
+		<location>Polk County, Missouri</location>
+		<Population 1900>23255</Population 1900>
+		<Population 1910>21561</Population 1910>
+		<Population 1920>20351</Population 1920>
+		<Population 1930>17803</Population 1930>
+		<Population 1940>17400</Population 1940>
+		<Population 1950>16062</Population 1950>
+		<Population 1960>13753</Population 1960>
+		<Population 1970>15415</Population 1970>
+		<Population 1980>18822</Population 1980>
+		<Population 1990>21826</Population 1990>
+		<Population 2000>26992</Population 2000>
+		<Population 2010>31113</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Ralls</name>
+		<area>469.7809328</area>
+		<location>Ralls County, Missouri</location>
+		<Population 1900>12287</Population 1900>
+		<Population 1910>12913</Population 1910>
+		<Population 1920>10412</Population 1920>
+		<Population 1930>10704</Population 1930>
+		<Population 1940>10040</Population 1940>
+		<Population 1950>8686</Population 1950>
+		<Population 1960>8078</Population 1960>
+		<Population 1970>7764</Population 1970>
+		<Population 1980>8984</Population 1980>
+		<Population 1990>8476</Population 1990>
+		<Population 2000>9626</Population 2000>
+		<Population 2010>10225</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Ray</name>
+		<area>568.8056351</area>
+		<location>Ray County, Missouri</location>
+		<Population 1900>24805</Population 1900>
+		<Population 1910>21451</Population 1910>
+		<Population 1920>20508</Population 1920>
+		<Population 1930>19846</Population 1930>
+		<Population 1940>18584</Population 1940>
+		<Population 1950>15932</Population 1950>
+		<Population 1960>16075</Population 1960>
+		<Population 1970>17599</Population 1970>
+		<Population 1980>21378</Population 1980>
+		<Population 1990>21971</Population 1990>
+		<Population 2000>23354</Population 2000>
+		<Population 2010>22921</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Ste. Genevieve</name>
+		<area>499.1528579</area>
+		<location>Ste. Genevieve County, Missouri</location>
+		<Population 1900>10359</Population 1900>
+		<Population 1910>10607</Population 1910>
+		<Population 1920>9809</Population 1920>
+		<Population 1930>10097</Population 1930>
+		<Population 1940>10905</Population 1940>
+		<Population 1950>11237</Population 1950>
+		<Population 1960>12116</Population 1960>
+		<Population 1970>12867</Population 1970>
+		<Population 1980>15180</Population 1980>
+		<Population 1990>16037</Population 1990>
+		<Population 2000>17842</Population 2000>
+		<Population 2010>17937</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Shannon</name>
+		<area>1003.820301</area>
+		<location>Shannon County, Missouri</location>
+		<Population 1900>11247</Population 1900>
+		<Population 1910>11443</Population 1910>
+		<Population 1920>11865</Population 1920>
+		<Population 1930>10894</Population 1930>
+		<Population 1940>11831</Population 1940>
+		<Population 1950>8377</Population 1950>
+		<Population 1960>7087</Population 1960>
+		<Population 1970>7196</Population 1970>
+		<Population 1980>7885</Population 1980>
+		<Population 1990>7613</Population 1990>
+		<Population 2000>8324</Population 2000>
+		<Population 2010>8256</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Shelby</name>
+		<area>500.8631863</area>
+		<location>Shelby County, Missouri</location>
+		<Population 1900>16167</Population 1900>
+		<Population 1910>14864</Population 1910>
+		<Population 1920>13617</Population 1920>
+		<Population 1930>11983</Population 1930>
+		<Population 1940>11224</Population 1940>
+		<Population 1950>9730</Population 1950>
+		<Population 1960>9063</Population 1960>
+		<Population 1970>7906</Population 1970>
+		<Population 1980>7826</Population 1980>
+		<Population 1990>6942</Population 1990>
+		<Population 2000>6799</Population 2000>
+		<Population 2010>6148</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Stoddard</name>
+		<area>823.2177364</area>
+		<location>Stoddard County, Missouri</location>
+		<Population 1900>24669</Population 1900>
+		<Population 1910>27807</Population 1910>
+		<Population 1920>29755</Population 1920>
+		<Population 1930>27452</Population 1930>
+		<Population 1940>33009</Population 1940>
+		<Population 1950>33463</Population 1950>
+		<Population 1960>29490</Population 1960>
+		<Population 1970>25771</Population 1970>
+		<Population 1980>29009</Population 1980>
+		<Population 1990>28895</Population 1990>
+		<Population 2000>29705</Population 2000>
+		<Population 2010>29788</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Vernon</name>
+		<area>826.3930095</area>
+		<location>Vernon County, Missouri</location>
+		<Population 1900>31619</Population 1900>
+		<Population 1910>28827</Population 1910>
+		<Population 1920>26069</Population 1920>
+		<Population 1930>25031</Population 1930>
+		<Population 1940>25586</Population 1940>
+		<Population 1950>22685</Population 1950>
+		<Population 1960>20540</Population 1960>
+		<Population 1970>19065</Population 1970>
+		<Population 1980>19806</Population 1980>
+		<Population 1990>19041</Population 1990>
+		<Population 2000>20454</Population 2000>
+		<Population 2010>20836</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Atchison</name>
+		<area>547.2851571</area>
+		<location>Atchison County, Missouri</location>
+		<Population 1900>16501</Population 1900>
+		<Population 1910>13604</Population 1910>
+		<Population 1920>13008</Population 1920>
+		<Population 1930>13421</Population 1930>
+		<Population 1940>12897</Population 1940>
+		<Population 1950>11127</Population 1950>
+		<Population 1960>9213</Population 1960>
+		<Population 1970>9240</Population 1970>
+		<Population 1980>8605</Population 1980>
+		<Population 1990>7457</Population 1990>
+		<Population 2000>6430</Population 2000>
+		<Population 2010>5380</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Barton</name>
+		<area>591.9205715</area>
+		<location>Barton County, Missouri</location>
+		<Population 1900>18253</Population 1900>
+		<Population 1910>16747</Population 1910>
+		<Population 1920>16879</Population 1920>
+		<Population 1930>14560</Population 1930>
+		<Population 1940>14148</Population 1940>
+		<Population 1950>12678</Population 1950>
+		<Population 1960>11113</Population 1960>
+		<Population 1970>10431</Population 1970>
+		<Population 1980>11292</Population 1980>
+		<Population 1990>11312</Population 1990>
+		<Population 2000>12541</Population 2000>
+		<Population 2010>12075</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Butler</name>
+		<area>694.668935</area>
+		<location>Butler County, Missouri</location>
+		<Population 1900>16769</Population 1900>
+		<Population 1910>20624</Population 1910>
+		<Population 1920>24106</Population 1920>
+		<Population 1930>23697</Population 1930>
+		<Population 1940>34276</Population 1940>
+		<Population 1950>37707</Population 1950>
+		<Population 1960>34656</Population 1960>
+		<Population 1970>33529</Population 1970>
+		<Population 1980>37693</Population 1980>
+		<Population 1990>38765</Population 1990>
+		<Population 2000>40867</Population 2000>
+		<Population 2010>42887</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Callaway</name>
+		<area>834.5774321</area>
+		<location>Callaway County, Missouri</location>
+		<Population 1900>25984</Population 1900>
+		<Population 1910>24400</Population 1910>
+		<Population 1920>23007</Population 1920>
+		<Population 1930>19923</Population 1930>
+		<Population 1940>23094</Population 1940>
+		<Population 1950>23316</Population 1950>
+		<Population 1960>23858</Population 1960>
+		<Population 1970>25850</Population 1970>
+		<Population 1980>32252</Population 1980>
+		<Population 1990>32809</Population 1990>
+		<Population 2000>40766</Population 2000>
+		<Population 2010>44693</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Christian</name>
+		<area>562.6446642</area>
+		<location>Christian County, Missouri</location>
+		<Population 1900>16939</Population 1900>
+		<Population 1910>15832</Population 1910>
+		<Population 1920>15252</Population 1920>
+		<Population 1930>13169</Population 1930>
+		<Population 1940>13538</Population 1940>
+		<Population 1950>12412</Population 1950>
+		<Population 1960>12359</Population 1960>
+		<Population 1970>15124</Population 1970>
+		<Population 1980>22402</Population 1980>
+		<Population 1990>32644</Population 1990>
+		<Population 2000>54285</Population 2000>
+		<Population 2010>82053</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Clay</name>
+		<area>397.6391934</area>
+		<location>Clay County, Missouri</location>
+		<Population 1900>18903</Population 1900>
+		<Population 1910>20302</Population 1910>
+		<Population 1920>20455</Population 1920>
+		<Population 1930>26811</Population 1930>
+		<Population 1940>30417</Population 1940>
+		<Population 1950>45221</Population 1950>
+		<Population 1960>87474</Population 1960>
+		<Population 1970>123702</Population 1970>
+		<Population 1980>136488</Population 1980>
+		<Population 1990>153411</Population 1990>
+		<Population 2000>184006</Population 2000>
+		<Population 2010>233135</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Clinton</name>
+		<area>418.9580014</area>
+		<location>Clinton County, Missouri</location>
+		<Population 1900>20578</Population 1900>
+		<Population 1910>21957</Population 1910>
+		<Population 1920>24680</Population 1920>
+		<Population 1930>30848</Population 1930>
+		<Population 1940>34912</Population 1940>
+		<Population 1950>35464</Population 1950>
+		<Population 1960>40761</Population 1960>
+		<Population 1970>46228</Population 1970>
+		<Population 1980>56663</Population 1980>
+		<Population 1990>63579</Population 1990>
+		<Population 2000>71397</Population 2000>
+		<Population 2010>76603</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Cole</name>
+		<area>391.5125944</area>
+		<location>Cole County, Missouri</location>
+		<Population 1900>22532</Population 1900>
+		<Population 1910>20311</Population 1910>
+		<Population 1920>19308</Population 1920>
+		<Population 1930>19522</Population 1930>
+		<Population 1940>18075</Population 1940>
+		<Population 1950>16608</Population 1950>
+		<Population 1960>15448</Population 1960>
+		<Population 1970>14732</Population 1970>
+		<Population 1980>14643</Population 1980>
+		<Population 1990>14835</Population 1990>
+		<Population 2000>16670</Population 2000>
+		<Population 2010>17613</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Cooper</name>
+		<area>564.7661352</area>
+		<location>Cooper County, Missouri</location>
+		<Population 1900>12959</Population 1900>
+		<Population 1910>13576</Population 1910>
+		<Population 1920>12355</Population 1920>
+		<Population 1930>11287</Population 1930>
+		<Population 1940>12693</Population 1940>
+		<Population 1950>11615</Population 1950>
+		<Population 1960>12647</Population 1960>
+		<Population 1970>14828</Population 1970>
+		<Population 1980>18300</Population 1980>
+		<Population 1990>19173</Population 1990>
+		<Population 2000>22804</Population 2000>
+		<Population 2010>24545</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Dent</name>
+		<area>752.7601264</area>
+		<location>Dent County, Missouri</location>
+		<Population 1900>12986</Population 1900>
+		<Population 1910>13245</Population 1910>
+		<Population 1920>12318</Population 1920>
+		<Population 1930>10974</Population 1930>
+		<Population 1940>11763</Population 1940>
+		<Population 1950>10936</Population 1950>
+		<Population 1960>10445</Population 1960>
+		<Population 1970>11457</Population 1970>
+		<Population 1980>14517</Population 1980>
+		<Population 1990>13702</Population 1990>
+		<Population 2000>14927</Population 2000>
+		<Population 2010>15578</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Douglas</name>
+		<area>813.6310925</area>
+		<location>Douglas County, Missouri</location>
+		<Population 1900>16802</Population 1900>
+		<Population 1910>16664</Population 1910>
+		<Population 1920>15436</Population 1920>
+		<Population 1930>13959</Population 1930>
+		<Population 1940>15600</Population 1940>
+		<Population 1950>12638</Population 1950>
+		<Population 1960>9653</Population 1960>
+		<Population 1970>9268</Population 1970>
+		<Population 1980>11594</Population 1980>
+		<Population 1990>11876</Population 1990>
+		<Population 2000>13084</Population 2000>
+		<Population 2010>13467</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Greene</name>
+		<area>675.3191877</area>
+		<location>Greene County, Missouri</location>
+		<Population 1900>52713</Population 1900>
+		<Population 1910>63831</Population 1910>
+		<Population 1920>68698</Population 1920>
+		<Population 1930>82929</Population 1930>
+		<Population 1940>90541</Population 1940>
+		<Population 1950>104823</Population 1950>
+		<Population 1960>126276</Population 1960>
+		<Population 1970>152929</Population 1970>
+		<Population 1980>185302</Population 1980>
+		<Population 1990>207949</Population 1990>
+		<Population 2000>240391</Population 2000>
+		<Population 2010>285449</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Laclede</name>
+		<area>764.7242599</area>
+		<location>Laclede County, Missouri</location>
+		<Population 1900>16523</Population 1900>
+		<Population 1910>17363</Population 1910>
+		<Population 1920>16857</Population 1920>
+		<Population 1930>16320</Population 1930>
+		<Population 1940>18718</Population 1940>
+		<Population 1950>19010</Population 1950>
+		<Population 1960>18991</Population 1960>
+		<Population 1970>19944</Population 1970>
+		<Population 1980>24323</Population 1980>
+		<Population 1990>27158</Population 1990>
+		<Population 2000>32513</Population 2000>
+		<Population 2010>35505</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Lincoln</name>
+		<area>626.5572931</area>
+		<location>Lincoln County, Missouri</location>
+		<Population 1900>18352</Population 1900>
+		<Population 1910>17033</Population 1910>
+		<Population 1920>15956</Population 1920>
+		<Population 1930>13929</Population 1930>
+		<Population 1940>14395</Population 1940>
+		<Population 1950>13478</Population 1950>
+		<Population 1960>14783</Population 1960>
+		<Population 1970>18041</Population 1970>
+		<Population 1980>22193</Population 1980>
+		<Population 1990>28892</Population 1990>
+		<Population 2000>38944</Population 2000>
+		<Population 2010>54286</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Livingston</name>
+		<area>532.3212568</area>
+		<location>Livingston County, Missouri</location>
+		<Population 1900>22302</Population 1900>
+		<Population 1910>19453</Population 1910>
+		<Population 1920>18857</Population 1920>
+		<Population 1930>18615</Population 1930>
+		<Population 1940>18000</Population 1940>
+		<Population 1950>16532</Population 1950>
+		<Population 1960>15771</Population 1960>
+		<Population 1970>15368</Population 1970>
+		<Population 1980>15739</Population 1980>
+		<Population 1990>14592</Population 1990>
+		<Population 2000>14558</Population 2000>
+		<Population 2010>15057</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Madison</name>
+		<area>494.3894561</area>
+		<location>Madison County, Missouri</location>
+		<Population 1900>33018</Population 1900>
+		<Population 1910>30868</Population 1910>
+		<Population 1920>27518</Population 1920>
+		<Population 1930>23070</Population 1930>
+		<Population 1940>21396</Population 1940>
+		<Population 1950>18332</Population 1950>
+		<Population 1960>16473</Population 1960>
+		<Population 1970>15432</Population 1970>
+		<Population 1980>16313</Population 1980>
+		<Population 1990>15345</Population 1990>
+		<Population 2000>15762</Population 2000>
+		<Population 2010>15399</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Pettis</name>
+		<area>682.2227895</area>
+		<location>Pettis County, Missouri</location>
+		<Population 1900>32438</Population 1900>
+		<Population 1910>33913</Population 1910>
+		<Population 1920>35813</Population 1920>
+		<Population 1930>34664</Population 1930>
+		<Population 1940>33336</Population 1940>
+		<Population 1950>31577</Population 1950>
+		<Population 1960>35120</Population 1960>
+		<Population 1970>34137</Population 1970>
+		<Population 1980>36378</Population 1980>
+		<Population 1990>35437</Population 1990>
+		<Population 2000>39403</Population 2000>
+		<Population 2010>42193</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Pike</name>
+		<area>670.4385306</area>
+		<location>Pike County, Missouri</location>
+		<Population 1900>25744</Population 1900>
+		<Population 1910>22556</Population 1910>
+		<Population 1920>20345</Population 1920>
+		<Population 1930>18001</Population 1930>
+		<Population 1940>18327</Population 1940>
+		<Population 1950>16844</Population 1950>
+		<Population 1960>16706</Population 1960>
+		<Population 1970>16928</Population 1970>
+		<Population 1980>17568</Population 1980>
+		<Population 1990>15969</Population 1990>
+		<Population 2000>18351</Population 2000>
+		<Population 2010>18475</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Platte</name>
+		<area>420.1958294</area>
+		<location>Platte County, Missouri</location>
+		<Population 1900>16193</Population 1900>
+		<Population 1910>14429</Population 1910>
+		<Population 1920>13996</Population 1920>
+		<Population 1930>13819</Population 1930>
+		<Population 1940>13862</Population 1940>
+		<Population 1950>14973</Population 1950>
+		<Population 1960>23350</Population 1960>
+		<Population 1970>32081</Population 1970>
+		<Population 1980>46341</Population 1980>
+		<Population 1990>57867</Population 1990>
+		<Population 2000>73781</Population 2000>
+		<Population 2010>94970</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Randolph</name>
+		<area>482.7116274</area>
+		<location>Randolph County, Missouri</location>
+		<Population 1900>24442</Population 1900>
+		<Population 1910>26182</Population 1910>
+		<Population 1920>27633</Population 1920>
+		<Population 1930>26431</Population 1930>
+		<Population 1940>24458</Population 1940>
+		<Population 1950>22918</Population 1950>
+		<Population 1960>22014</Population 1960>
+		<Population 1970>22434</Population 1970>
+		<Population 1980>25460</Population 1980>
+		<Population 1990>24370</Population 1990>
+		<Population 2000>24663</Population 2000>
+		<Population 2010>25081</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>St. Charles</name>
+		<area>560.4243727</area>
+		<location>St. Charles County, Missouri</location>
+		<Population 1900>24474</Population 1900>
+		<Population 1910>24695</Population 1910>
+		<Population 1920>22828</Population 1920>
+		<Population 1930>24354</Population 1930>
+		<Population 1940>25562</Population 1940>
+		<Population 1950>29834</Population 1950>
+		<Population 1960>52970</Population 1960>
+		<Population 1970>92954</Population 1970>
+		<Population 1980>144107</Population 1980>
+		<Population 1990>212907</Population 1990>
+		<Population 2000>283883</Population 2000>
+		<Population 2010>379856</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>St. Francois</name>
+		<area>451.9082287</area>
+		<location>St. Francois County, Missouri</location>
+		<Population 1900>24051</Population 1900>
+		<Population 1910>35738</Population 1910>
+		<Population 1920>31403</Population 1920>
+		<Population 1930>35832</Population 1930>
+		<Population 1940>35950</Population 1940>
+		<Population 1950>35276</Population 1950>
+		<Population 1960>36516</Population 1960>
+		<Population 1970>36818</Population 1970>
+		<Population 1980>42600</Population 1980>
+		<Population 1990>48904</Population 1990>
+		<Population 2000>55641</Population 2000>
+		<Population 2010>66230</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Scott</name>
+		<area>419.9885019</area>
+		<location>Scott County, Missouri</location>
+		<Population 1900>13092</Population 1900>
+		<Population 1910>22372</Population 1910>
+		<Population 1920>23409</Population 1920>
+		<Population 1930>24913</Population 1930>
+		<Population 1940>30377</Population 1940>
+		<Population 1950>32842</Population 1950>
+		<Population 1960>32748</Population 1960>
+		<Population 1970>33250</Population 1970>
+		<Population 1980>39647</Population 1980>
+		<Population 1990>39376</Population 1990>
+		<Population 2000>40422</Population 2000>
+		<Population 2010>38994</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Stone</name>
+		<area>464.035935</area>
+		<location>Stone County, Missouri</location>
+		<Population 1900>9892</Population 1900>
+		<Population 1910>11559</Population 1910>
+		<Population 1920>11941</Population 1920>
+		<Population 1930>11614</Population 1930>
+		<Population 1940>11298</Population 1940>
+		<Population 1950>9748</Population 1950>
+		<Population 1960>8176</Population 1960>
+		<Population 1970>9921</Population 1970>
+		<Population 1980>15587</Population 1980>
+		<Population 1990>19078</Population 1990>
+		<Population 2000>28658</Population 2000>
+		<Population 2010>31197</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Taney</name>
+		<area>632.4398181</area>
+		<location>Taney County, Missouri</location>
+		<Population 1900>10127</Population 1900>
+		<Population 1910>9134</Population 1910>
+		<Population 1920>8178</Population 1920>
+		<Population 1930>8867</Population 1930>
+		<Population 1940>10323</Population 1940>
+		<Population 1950>9863</Population 1950>
+		<Population 1960>10238</Population 1960>
+		<Population 1970>13023</Population 1970>
+		<Population 1980>20467</Population 1980>
+		<Population 1990>25561</Population 1990>
+		<Population 2000>39703</Population 2000>
+		<Population 2010>53853</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Warren</name>
+		<area>428.6004634</area>
+		<location>Warren County, Missouri</location>
+		<Population 1900>9919</Population 1900>
+		<Population 1910>9123</Population 1910>
+		<Population 1920>8490</Population 1920>
+		<Population 1930>8082</Population 1930>
+		<Population 1940>7734</Population 1940>
+		<Population 1950>7666</Population 1950>
+		<Population 1960>8750</Population 1960>
+		<Population 1970>9699</Population 1970>
+		<Population 1980>14900</Population 1980>
+		<Population 1990>19534</Population 1990>
+		<Population 2000>24525</Population 2000>
+		<Population 2010>33290</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Worth</name>
+		<area>266.6125291</area>
+		<location>Worth County, Missouri</location>
+		<Population 1900>9832</Population 1900>
+		<Population 1910>8007</Population 1910>
+		<Population 1920>7642</Population 1920>
+		<Population 1930>6535</Population 1930>
+		<Population 1940>6345</Population 1940>
+		<Population 1950>5120</Population 1950>
+		<Population 1960>3936</Population 1960>
+		<Population 1970>3359</Population 1970>
+		<Population 1980>3008</Population 1980>
+		<Population 1990>2440</Population 1990>
+		<Population 2000>2382</Population 2000>
+		<Population 2010>2061</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Adair</name>
+		<area>567.3236274</area>
+		<location>Adair County, Missouri</location>
+		<Population 1900>21728</Population 1900>
+		<Population 1910>22700</Population 1910>
+		<Population 1920>21404</Population 1920>
+		<Population 1930>19436</Population 1930>
+		<Population 1940>20246</Population 1940>
+		<Population 1950>19689</Population 1950>
+		<Population 1960>20105</Population 1960>
+		<Population 1970>22472</Population 1970>
+		<Population 1980>24870</Population 1980>
+		<Population 1990>24577</Population 1990>
+		<Population 2000>24977</Population 2000>
+		<Population 2010>25547</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Barry</name>
+		<area>778.2500542</area>
+		<location>Barry County, Missouri</location>
+		<Population 1900>25532</Population 1900>
+		<Population 1910>23869</Population 1910>
+		<Population 1920>23473</Population 1920>
+		<Population 1930>22803</Population 1930>
+		<Population 1940>23546</Population 1940>
+		<Population 1950>21755</Population 1950>
+		<Population 1960>18921</Population 1960>
+		<Population 1970>19597</Population 1970>
+		<Population 1980>24408</Population 1980>
+		<Population 1990>27547</Population 1990>
+		<Population 2000>34010</Population 2000>
+		<Population 2010>35716</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Bollinger</name>
+		<area>617.9048701</area>
+		<location>Bollinger County, Missouri</location>
+		<Population 1900>14650</Population 1900>
+		<Population 1910>14576</Population 1910>
+		<Population 1920>13909</Population 1920>
+		<Population 1930>12269</Population 1930>
+		<Population 1940>12898</Population 1940>
+		<Population 1950>11019</Population 1950>
+		<Population 1960>9167</Population 1960>
+		<Population 1970>8820</Population 1970>
+		<Population 1980>10301</Population 1980>
+		<Population 1990>10619</Population 1990>
+		<Population 2000>12029</Population 2000>
+		<Population 2010>12282</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Boone</name>
+		<area>685.5552988</area>
+		<location>Boone County, Missouri</location>
+		<Population 1900>28642</Population 1900>
+		<Population 1910>30533</Population 1910>
+		<Population 1920>29672</Population 1920>
+		<Population 1930>30995</Population 1930>
+		<Population 1940>34991</Population 1940>
+		<Population 1950>48432</Population 1950>
+		<Population 1960>55202</Population 1960>
+		<Population 1970>80911</Population 1970>
+		<Population 1980>100376</Population 1980>
+		<Population 1990>112379</Population 1990>
+		<Population 2000>135454</Population 2000>
+		<Population 2010>172773</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Camden</name>
+		<area>655.9983934</area>
+		<location>Camden County, Missouri</location>
+		<Population 1900>13113</Population 1900>
+		<Population 1910>11582</Population 1910>
+		<Population 1920>10474</Population 1920>
+		<Population 1930>9142</Population 1930>
+		<Population 1940>8971</Population 1940>
+		<Population 1950>7861</Population 1950>
+		<Population 1960>9116</Population 1960>
+		<Population 1970>13315</Population 1970>
+		<Population 1980>20017</Population 1980>
+		<Population 1990>27495</Population 1990>
+		<Population 2000>37051</Population 2000>
+		<Population 2010>44152</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Cedar</name>
+		<area>474.4827544</area>
+		<location>Cedar County, Missouri</location>
+		<Population 1900>16923</Population 1900>
+		<Population 1910>16080</Population 1910>
+		<Population 1920>13933</Population 1920>
+		<Population 1930>11136</Population 1930>
+		<Population 1940>11697</Population 1940>
+		<Population 1950>10663</Population 1950>
+		<Population 1960>9185</Population 1960>
+		<Population 1970>9424</Population 1970>
+		<Population 1980>11894</Population 1980>
+		<Population 1990>12093</Population 1990>
+		<Population 2000>13733</Population 2000>
+		<Population 2010>13932</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Daviess</name>
+		<area>563.2360779</area>
+		<location>Daviess County, Missouri</location>
+		<Population 1900>21325</Population 1900>
+		<Population 1910>17605</Population 1910>
+		<Population 1920>16641</Population 1920>
+		<Population 1930>14424</Population 1930>
+		<Population 1940>13398</Population 1940>
+		<Population 1950>11180</Population 1950>
+		<Population 1960>9502</Population 1960>
+		<Population 1970>8420</Population 1970>
+		<Population 1980>8905</Population 1980>
+		<Population 1990>7865</Population 1990>
+		<Population 2000>8016</Population 2000>
+		<Population 2010>8257</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Grundy</name>
+		<area>435.2851172</area>
+		<location>Grundy County, Missouri</location>
+		<Population 1900>17832</Population 1900>
+		<Population 1910>16744</Population 1910>
+		<Population 1920>17554</Population 1920>
+		<Population 1930>16135</Population 1930>
+		<Population 1940>15716</Population 1940>
+		<Population 1950>13220</Population 1950>
+		<Population 1960>12220</Population 1960>
+		<Population 1970>11819</Population 1970>
+		<Population 1980>11959</Population 1980>
+		<Population 1990>10536</Population 1990>
+		<Population 2000>10432</Population 2000>
+		<Population 2010>10231</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Jasper</name>
+		<area>638.4791086</area>
+		<location>Jasper County, Missouri</location>
+		<Population 1900>84018</Population 1900>
+		<Population 1910>89673</Population 1910>
+		<Population 1920>75941</Population 1920>
+		<Population 1930>73810</Population 1930>
+		<Population 1940>78705</Population 1940>
+		<Population 1950>79106</Population 1950>
+		<Population 1960>78863</Population 1960>
+		<Population 1970>79852</Population 1970>
+		<Population 1980>86958</Population 1980>
+		<Population 1990>90465</Population 1990>
+		<Population 2000>104686</Population 2000>
+		<Population 2010>117376</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Lawrence</name>
+		<area>611.7366393</area>
+		<location>Lawrence County, Missouri</location>
+		<Population 1900>31662</Population 1900>
+		<Population 1910>26583</Population 1910>
+		<Population 1920>24211</Population 1920>
+		<Population 1930>23774</Population 1930>
+		<Population 1940>24637</Population 1940>
+		<Population 1950>23420</Population 1950>
+		<Population 1960>23260</Population 1960>
+		<Population 1970>24585</Population 1970>
+		<Population 1980>29973</Population 1980>
+		<Population 1990>30236</Population 1990>
+		<Population 2000>35204</Population 2000>
+		<Population 2010>38204</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Morgan</name>
+		<area>597.6297919</area>
+		<location>Morgan County, Missouri</location>
+		<Population 1900>12175</Population 1900>
+		<Population 1910>12863</Population 1910>
+		<Population 1920>12015</Population 1920>
+		<Population 1930>10968</Population 1930>
+		<Population 1940>11140</Population 1940>
+		<Population 1950>10207</Population 1950>
+		<Population 1960>9476</Population 1960>
+		<Population 1970>10068</Population 1970>
+		<Population 1980>13807</Population 1980>
+		<Population 1990>15574</Population 1990>
+		<Population 2000>19309</Population 2000>
+		<Population 2010>20182</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Nodaway</name>
+		<area>876.9637414</area>
+		<location>Nodaway County, Missouri</location>
+		<Population 1900>32938</Population 1900>
+		<Population 1910>28833</Population 1910>
+		<Population 1920>27744</Population 1920>
+		<Population 1930>26371</Population 1930>
+		<Population 1940>25556</Population 1940>
+		<Population 1950>24033</Population 1950>
+		<Population 1960>22215</Population 1960>
+		<Population 1970>22467</Population 1970>
+		<Population 1980>21996</Population 1980>
+		<Population 1990>21709</Population 1990>
+		<Population 2000>21912</Population 2000>
+		<Population 2010>23026</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Putnam</name>
+		<area>517.3163917</area>
+		<location>Putnam County, Missouri</location>
+		<Population 1900>16688</Population 1900>
+		<Population 1910>14308</Population 1910>
+		<Population 1920>13115</Population 1920>
+		<Population 1930>11503</Population 1930>
+		<Population 1940>11327</Population 1940>
+		<Population 1950>9166</Population 1950>
+		<Population 1960>6999</Population 1960>
+		<Population 1970>5916</Population 1970>
+		<Population 1980>6092</Population 1980>
+		<Population 1990>5079</Population 1990>
+		<Population 2000>5223</Population 2000>
+		<Population 2010>4877</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>St. Clair</name>
+		<area>674.9805021</area>
+		<location>St. Clair County, Missouri</location>
+		<Population 1900>17907</Population 1900>
+		<Population 1910>16412</Population 1910>
+		<Population 1920>15341</Population 1920>
+		<Population 1930>13289</Population 1930>
+		<Population 1940>13146</Population 1940>
+		<Population 1950>10482</Population 1950>
+		<Population 1960>8421</Population 1960>
+		<Population 1970>7667</Population 1970>
+		<Population 1980>8622</Population 1980>
+		<Population 1990>8457</Population 1990>
+		<Population 2000>9652</Population 2000>
+		<Population 2010>9444</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>St. Louis</name>
+		<area>507.7712846</area>
+		<location>St. Louis County, Missouri</location>
+		<Population 1900>50040</Population 1900>
+		<Population 1910>82417</Population 1910>
+		<Population 1920>100737</Population 1920>
+		<Population 1930>211593</Population 1930>
+		<Population 1940>274230</Population 1940>
+		<Population 1950>406349</Population 1950>
+		<Population 1960>703532</Population 1960>
+		<Population 1970>951671</Population 1970>
+		<Population 1980>974177</Population 1980>
+		<Population 1990>993529</Population 1990>
+		<Population 2000>1016315</Population 2000>
+		<Population 2010>1000560</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Schuyler</name>
+		<area>307.3049162</area>
+		<location>Schuyler County, Missouri</location>
+		<Population 1900>10840</Population 1900>
+		<Population 1910>9062</Population 1910>
+		<Population 1920>8383</Population 1920>
+		<Population 1930>6951</Population 1930>
+		<Population 1940>6627</Population 1940>
+		<Population 1950>5760</Population 1950>
+		<Population 1960>5052</Population 1960>
+		<Population 1970>4665</Population 1970>
+		<Population 1980>4979</Population 1980>
+		<Population 1990>4236</Population 1990>
+		<Population 2000>4170</Population 2000>
+		<Population 2010>4396</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Scotland</name>
+		<area>436.6691226</area>
+		<location>Scotland County, Missouri</location>
+		<Population 1900>13232</Population 1900>
+		<Population 1910>11869</Population 1910>
+		<Population 1920>10700</Population 1920>
+		<Population 1930>8853</Population 1930>
+		<Population 1940>8557</Population 1940>
+		<Population 1950>7332</Population 1950>
+		<Population 1960>6484</Population 1960>
+		<Population 1970>5499</Population 1970>
+		<Population 1980>5415</Population 1980>
+		<Population 1990>4822</Population 1990>
+		<Population 2000>4983</Population 2000>
+		<Population 2010>4893</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Wright</name>
+		<area>681.7712467</area>
+		<location>Wright County, Missouri</location>
+		<Population 1900>17519</Population 1900>
+		<Population 1910>18315</Population 1910>
+		<Population 1920>17733</Population 1920>
+		<Population 1930>16741</Population 1930>
+		<Population 1940>17967</Population 1940>
+		<Population 1950>15834</Population 1950>
+		<Population 1960>14183</Population 1960>
+		<Population 1970>13667</Population 1970>
+		<Population 1980>16188</Population 1980>
+		<Population 1990>16758</Population 1990>
+		<Population 2000>17955</Population 2000>
+		<Population 2010>18378</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Benton</name>
+		<area>704.0429228</area>
+		<location>Benton County, Missouri</location>
+		<Population 1900>16556</Population 1900>
+		<Population 1910>14881</Population 1910>
+		<Population 1920>12989</Population 1920>
+		<Population 1930>11708</Population 1930>
+		<Population 1940>11142</Population 1940>
+		<Population 1950>9080</Population 1950>
+		<Population 1960>8737</Population 1960>
+		<Population 1970>9695</Population 1970>
+		<Population 1980>12183</Population 1980>
+		<Population 1990>13859</Population 1990>
+		<Population 2000>17180</Population 2000>
+		<Population 2010>18825</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Carter</name>
+		<area>507.3581794</area>
+		<location>Carter County, Missouri</location>
+		<Population 1900>6706</Population 1900>
+		<Population 1910>5504</Population 1910>
+		<Population 1920>7482</Population 1920>
+		<Population 1930>5503</Population 1930>
+		<Population 1940>6226</Population 1940>
+		<Population 1950>4777</Population 1950>
+		<Population 1960>3973</Population 1960>
+		<Population 1970>3878</Population 1970>
+		<Population 1980>5428</Population 1980>
+		<Population 1990>5515</Population 1990>
+		<Population 2000>5941</Population 2000>
+		<Population 2010>6249</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Dallas</name>
+		<area>540.7661256</area>
+		<location>Dallas County, Missouri</location>
+		<Population 1900>13903</Population 1900>
+		<Population 1910>13181</Population 1910>
+		<Population 1920>12033</Population 1920>
+		<Population 1930>10541</Population 1930>
+		<Population 1940>11523</Population 1940>
+		<Population 1950>10392</Population 1950>
+		<Population 1960>9314</Population 1960>
+		<Population 1970>10054</Population 1970>
+		<Population 1980>12096</Population 1980>
+		<Population 1990>12646</Population 1990>
+		<Population 2000>15661</Population 2000>
+		<Population 2010>16508</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>DeKalb</name>
+		<area>421.3574578</area>
+		<location>DeKalb County, Missouri</location>
+		<Population 1900>14418</Population 1900>
+		<Population 1910>12531</Population 1910>
+		<Population 1920>11694</Population 1920>
+		<Population 1930>10270</Population 1930>
+		<Population 1940>9751</Population 1940>
+		<Population 1950>8047</Population 1950>
+		<Population 1960>7226</Population 1960>
+		<Population 1970>7305</Population 1970>
+		<Population 1980>8222</Population 1980>
+		<Population 1990>9967</Population 1990>
+		<Population 2000>11597</Population 2000>
+		<Population 2010>12706</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Iron</name>
+		<area>550.2639623</area>
+		<location>Iron County, Missouri</location>
+		<Population 1900>8716</Population 1900>
+		<Population 1910>8563</Population 1910>
+		<Population 1920>9458</Population 1920>
+		<Population 1930>9642</Population 1930>
+		<Population 1940>10440</Population 1940>
+		<Population 1950>9458</Population 1950>
+		<Population 1960>8041</Population 1960>
+		<Population 1970>9529</Population 1970>
+		<Population 1980>11084</Population 1980>
+		<Population 1990>10726</Population 1990>
+		<Population 2000>10697</Population 2000>
+		<Population 2010>10220</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Moniteau</name>
+		<area>415.0253182</area>
+		<location>Moniteau County, Missouri</location>
+		<Population 1900>15931</Population 1900>
+		<Population 1910>14375</Population 1910>
+		<Population 1920>13532</Population 1920>
+		<Population 1930>12173</Population 1930>
+		<Population 1940>11775</Population 1940>
+		<Population 1950>10840</Population 1950>
+		<Population 1960>10500</Population 1960>
+		<Population 1970>10742</Population 1970>
+		<Population 1980>12068</Population 1980>
+		<Population 1990>12298</Population 1990>
+		<Population 2000>14827</Population 2000>
+		<Population 2010>15840</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Pulaski</name>
+		<area>547.1008533</area>
+		<location>Pulaski County, Missouri</location>
+		<Population 1900>10394</Population 1900>
+		<Population 1910>11438</Population 1910>
+		<Population 1920>10490</Population 1920>
+		<Population 1930>10755</Population 1930>
+		<Population 1940>10775</Population 1940>
+		<Population 1950>10392</Population 1950>
+		<Population 1960>46567</Population 1960>
+		<Population 1970>53781</Population 1970>
+		<Population 1980>42011</Population 1980>
+		<Population 1990>41307</Population 1990>
+		<Population 2000>41165</Population 2000>
+		<Population 2010>53302</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Reynolds</name>
+		<area>808.4772119</area>
+		<location>Reynolds County, Missouri</location>
+		<Population 1900>8161</Population 1900>
+		<Population 1910>9592</Population 1910>
+		<Population 1920>10106</Population 1920>
+		<Population 1930>8923</Population 1930>
+		<Population 1940>9370</Population 1940>
+		<Population 1950>6918</Population 1950>
+		<Population 1960>5161</Population 1960>
+		<Population 1970>6106</Population 1970>
+		<Population 1980>7230</Population 1980>
+		<Population 1990>6661</Population 1990>
+		<Population 2000>6689</Population 2000>
+		<Population 2010>6530</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Sullivan</name>
+		<area>647.9812676</area>
+		<location>Sullivan County, Missouri</location>
+		<Population 1900>20282</Population 1900>
+		<Population 1910>18598</Population 1910>
+		<Population 1920>17781</Population 1920>
+		<Population 1930>15212</Population 1930>
+		<Population 1940>13701</Population 1940>
+		<Population 1950>11299</Population 1950>
+		<Population 1960>8783</Population 1960>
+		<Population 1970>7572</Population 1970>
+		<Population 1980>7434</Population 1980>
+		<Population 1990>6326</Population 1990>
+		<Population 2000>7219</Population 2000>
+		<Population 2010>6416</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Texas</name>
+		<area>1177.265363</area>
+		<location>Texas County, Missouri</location>
+		<Population 1900>22192</Population 1900>
+		<Population 1910>21458</Population 1910>
+		<Population 1920>20548</Population 1920>
+		<Population 1930>18580</Population 1930>
+		<Population 1940>19813</Population 1940>
+		<Population 1950>18992</Population 1950>
+		<Population 1960>17758</Population 1960>
+		<Population 1970>18320</Population 1970>
+		<Population 1980>21070</Population 1980>
+		<Population 1990>21476</Population 1990>
+		<Population 2000>23003</Population 2000>
+		<Population 2010>25690</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Webster</name>
+		<area>592.5624348</area>
+		<location>Webster County, Missouri</location>
+		<Population 1900>16640</Population 1900>
+		<Population 1910>17377</Population 1910>
+		<Population 1920>16609</Population 1920>
+		<Population 1930>16148</Population 1930>
+		<Population 1940>17226</Population 1940>
+		<Population 1950>15072</Population 1950>
+		<Population 1960>13753</Population 1960>
+		<Population 1970>15562</Population 1970>
+		<Population 1980>20414</Population 1980>
+		<Population 1990>23753</Population 1990>
+		<Population 2000>31045</Population 2000>
+		<Population 2010>37075</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Buchanan</name>
+		<area>408.0256781</area>
+		<location>Buchanan County, Missouri</location>
+		<Population 1900>121838</Population 1900>
+		<Population 1910>93020</Population 1910>
+		<Population 1920>93684</Population 1920>
+		<Population 1930>98633</Population 1930>
+		<Population 1940>94067</Population 1940>
+		<Population 1950>96826</Population 1950>
+		<Population 1960>90581</Population 1960>
+		<Population 1970>86915</Population 1970>
+		<Population 1980>87888</Population 1980>
+		<Population 1990>83083</Population 1990>
+		<Population 2000>85998</Population 2000>
+		<Population 2010>89415</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Hickory</name>
+		<area>398.8075523</area>
+		<location>Hickory County, Missouri</location>
+		<Population 1900>9985</Population 1900>
+		<Population 1910>8741</Population 1910>
+		<Population 1920>7033</Population 1920>
+		<Population 1930>6430</Population 1930>
+		<Population 1940>6506</Population 1940>
+		<Population 1950>5387</Population 1950>
+		<Population 1960>4516</Population 1960>
+		<Population 1970>4481</Population 1970>
+		<Population 1980>6367</Population 1980>
+		<Population 1990>7335</Population 1990>
+		<Population 2000>8940</Population 2000>
+		<Population 2010>9267</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Oregon</name>
+		<area>789.7952075</area>
+		<location>Oregon County, Missouri</location>
+		<Population 1900>13906</Population 1900>
+		<Population 1910>14681</Population 1910>
+		<Population 1920>12889</Population 1920>
+		<Population 1930>12220</Population 1930>
+		<Population 1940>13390</Population 1940>
+		<Population 1950>11978</Population 1950>
+		<Population 1960>9845</Population 1960>
+		<Population 1970>9180</Population 1970>
+		<Population 1980>10238</Population 1980>
+		<Population 1990>9470</Population 1990>
+		<Population 2000>10344</Population 2000>
+		<Population 2010>10922</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Ripley</name>
+		<area>629.5388245</area>
+		<location>Ripley County, Missouri</location>
+		<Population 1900>13186</Population 1900>
+		<Population 1910>13099</Population 1910>
+		<Population 1920>12061</Population 1920>
+		<Population 1930>11176</Population 1930>
+		<Population 1940>12606</Population 1940>
+		<Population 1950>11414</Population 1950>
+		<Population 1960>9096</Population 1960>
+		<Population 1970>9803</Population 1970>
+		<Population 1980>12458</Population 1980>
+		<Population 1990>12303</Population 1990>
+		<Population 2000>13509</Population 2000>
+		<Population 2010>13936</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Saline</name>
+		<area>755.4923456</area>
+		<location>Saline County, Missouri</location>
+		<Population 1900>33703</Population 1900>
+		<Population 1910>29448</Population 1910>
+		<Population 1920>28826</Population 1920>
+		<Population 1930>30598</Population 1930>
+		<Population 1940>29416</Population 1940>
+		<Population 1950>26694</Population 1950>
+		<Population 1960>25148</Population 1960>
+		<Population 1970>24633</Population 1970>
+		<Population 1980>24919</Population 1980>
+		<Population 1990>23523</Population 1990>
+		<Population 2000>23756</Population 2000>
+		<Population 2010>23214</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Wayne</name>
+		<area>759.1760672</area>
+		<location>Wayne County, Missouri</location>
+		<Population 1900>15309</Population 1900>
+		<Population 1910>15181</Population 1910>
+		<Population 1920>13012</Population 1920>
+		<Population 1930>12243</Population 1930>
+		<Population 1940>12794</Population 1940>
+		<Population 1950>10514</Population 1950>
+		<Population 1960>8638</Population 1960>
+		<Population 1970>8546</Population 1970>
+		<Population 1980>11277</Population 1980>
+		<Population 1990>11543</Population 1990>
+		<Population 2000>13259</Population 2000>
+		<Population 2010>13341</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Jackson</name>
+		<area>604.5720754</area>
+		<location>Jackson County, Missouri</location>
+		<Population 1900>195193</Population 1900>
+		<Population 1910>283522</Population 1910>
+		<Population 1920>367846</Population 1920>
+		<Population 1930>470454</Population 1930>
+		<Population 1940>477828</Population 1940>
+		<Population 1950>541035</Population 1950>
+		<Population 1960>622732</Population 1960>
+		<Population 1970>654178</Population 1970>
+		<Population 1980>629266</Population 1980>
+		<Population 1990>633232</Population 1990>
+		<Population 2000>654880</Population 2000>
+		<Population 2010>683643</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Ozark</name>
+		<area>744.9711912</area>
+		<location>Ozark County, Missouri</location>
+		<Population 1900>12145</Population 1900>
+		<Population 1910>11926</Population 1910>
+		<Population 1920>11125</Population 1920>
+		<Population 1930>9537</Population 1930>
+		<Population 1940>10766</Population 1940>
+		<Population 1950>8856</Population 1950>
+		<Population 1960>6744</Population 1960>
+		<Population 1970>6226</Population 1970>
+		<Population 1980>7961</Population 1980>
+		<Population 1990>8598</Population 1990>
+		<Population 2000>9542</Population 2000>
+		<Population 2010>9450</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Washington</name>
+		<area>759.8704411</area>
+		<location>Washington County, Missouri</location>
+		<Population 1900>14263</Population 1900>
+		<Population 1910>13378</Population 1910>
+		<Population 1920>13803</Population 1920>
+		<Population 1930>14450</Population 1930>
+		<Population 1940>17492</Population 1940>
+		<Population 1950>14689</Population 1950>
+		<Population 1960>14346</Population 1960>
+		<Population 1970>15086</Population 1970>
+		<Population 1980>17983</Population 1980>
+		<Population 1990>20380</Population 1990>
+		<Population 2000>23344</Population 2000>
+		<Population 2010>25002</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Dunklin</name>
+		<area>541.0714999</area>
+		<location>Dunklin County, Missouri</location>
+		<Population 1900>21706</Population 1900>
+		<Population 1910>30328</Population 1910>
+		<Population 1920>32773</Population 1920>
+		<Population 1930>35799</Population 1930>
+		<Population 1940>44957</Population 1940>
+		<Population 1950>45329</Population 1950>
+		<Population 1960>39139</Population 1960>
+		<Population 1970>33742</Population 1970>
+		<Population 1980>36324</Population 1980>
+		<Population 1990>33112</Population 1990>
+		<Population 2000>33155</Population 2000>
+		<Population 2010>31271</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>McDonald</name>
+		<area>539.4799338</area>
+		<location>McDonald County, Missouri</location>
+		<Population 1900>26331</Population 1900>
+		<Population 1910>30572</Population 1910>
+		<Population 1920>30226</Population 1920>
+		<Population 1930>33493</Population 1930>
+		<Population 1940>31576</Population 1940>
+		<Population 1950>29765</Population 1950>
+		<Population 1960>29522</Population 1960>
+		<Population 1970>28121</Population 1970>
+		<Population 1980>28638</Population 1980>
+		<Population 1990>27682</Population 1990>
+		<Population 2000>28289</Population 2000>
+		<Population 2010>28858</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>New Madrid</name>
+		<area>674.8402247</area>
+		<location>New Madrid County, Missouri</location>
+		<Population 1900>11280</Population 1900>
+		<Population 1910>19488</Population 1910>
+		<Population 1920>25180</Population 1920>
+		<Population 1930>30262</Population 1930>
+		<Population 1940>39787</Population 1940>
+		<Population 1950>39444</Population 1950>
+		<Population 1960>31350</Population 1960>
+		<Population 1970>23420</Population 1970>
+		<Population 1980>22945</Population 1980>
+		<Population 1990>20928</Population 1990>
+		<Population 2000>19760</Population 2000>
+		<Population 2010>0</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>St. Louis City</name>
+		<area>61.9531717</area>
+		<location>St. Louis city, Missouri</location>
+		<Population 1900>575238</Population 1900>
+		<Population 1910>687029</Population 1910>
+		<Population 1920>772897</Population 1920>
+		<Population 1930>821960</Population 1930>
+		<Population 1940>816048</Population 1940>
+		<Population 1950>856796</Population 1950>
+		<Population 1960>750026</Population 1960>
+		<Population 1970>622236</Population 1970>
+		<Population 1980>452804</Population 1980>
+		<Population 1990>396685</Population 1990>
+		<Population 2000>348189</Population 2000>
+		<Population 2010>316030</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Mississippi</name>
+		<area>411.582961</area>
+		<location>Mississippi County, Missouri</location>
+		<Population 1900>11837</Population 1900>
+		<Population 1910>14557</Population 1910>
+		<Population 1920>12860</Population 1920>
+		<Population 1930>15762</Population 1930>
+		<Population 1940>23149</Population 1940>
+		<Population 1950>22551</Population 1950>
+		<Population 1960>20695</Population 1960>
+		<Population 1970>16647</Population 1970>
+		<Population 1980>15726</Population 1980>
+		<Population 1990>14442</Population 1990>
+		<Population 2000>13427</Population 2000>
+		<Population 2010>14112</Population 2010>
+	</ROW>
+
+	<ROW>
+		<name>Pemiscot</name>
+		<area>492.5202954</area>
+		<location>Pemiscot County, Missouri</location>
+		<Population 1900>12115</Population 1900>
+		<Population 1910>19559</Population 1910>
+		<Population 1920>26634</Population 1920>
+		<Population 1930>37284</Population 1930>
+		<Population 1940>46857</Population 1940>
+		<Population 1950>45624</Population 1950>
+		<Population 1960>38095</Population 1960>
+		<Population 1970>26373</Population 1970>
+		<Population 1980>24987</Population 1980>
+		<Population 1990>21921</Population 1990>
+		<Population 2000>20047</Population 2000>
+		<Population 2010>17599</Population 2010>
+	</ROW>
+</DATA>
