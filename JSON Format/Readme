@@ -1,0 +1,21 @@
+Adapted contents of the data for each Missouri county into JSON format. 
+Contains the name, area, location, and population for 1900-2010. 
+
+Sample: 
+{
+		"name" : Andrew,
+		"area" : 432.7031817,
+		"location" : "Andrew County, Missouri",
+		"Population 1900" : 17332,
+		"Population 1910" : 15282,
+		"Population 1920" : 14075,
+		"Population 1930" : 13469,
+		"Population 1940" : 13015,
+		"Population 1950" : 11727,
+		"Population 1960" : 11062,
+		"Population 1970" : 11913,
+		"Population 1980" : 13980,
+		"Population 1990" : 14632,
+		"Population 2000" : 16492,
+		"Population 2010" : 17347
+	}
