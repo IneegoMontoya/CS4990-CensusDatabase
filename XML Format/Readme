@@ -1,0 +1,21 @@
+Adapted data set for Missouri County to be able to be used in XML format.
+
+Sample:
+
+  <ROW>
+		<name>Andrew</name>
+		<area>432.7031817</area>
+		<location>Andrew County, Missouri</location>
+		<Population 1900>17332</Population 1900>
+		<Population 1910>15282</Population 1910>
+		<Population 1920>14075</Population 1920>
+		<Population 1930>13469</Population 1930>
+		<Population 1940>13015</Population 1940>
+		<Population 1950>11727</Population 1950>
+		<Population 1960>11062</Population 1960>
+		<Population 1970>11913</Population 1970>
+		<Population 1980>13980</Population 1980>
+		<Population 1990>14632</Population 1990>
+		<Population 2000>16492</Population 2000>
+		<Population 2010>17347</Population 2010>
+	</ROW>
