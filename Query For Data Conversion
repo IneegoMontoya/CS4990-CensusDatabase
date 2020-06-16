@@ -1,0 +1,17 @@
+SELECT county.name, county.area, county.location,
+
+SUM(case when county_population.year='1901' THEN population else 0 end) as "Population 1900",
+SUM(case when county_population.year='1910' THEN population else 0 end) as "Population 1910",
+SUM(case when county_population.year='1920' THEN population else 0 end) as "Population 1920",
+SUM(case when county_population.year='1930' THEN population else 0 end) as "Population 1930",
+SUM(case when county_population.year='1940' THEN population else 0 end) as "Population 1940",
+SUM(case when county_population.year='1950' THEN population else 0 end) as "Population 1950",
+SUM(case when county_population.year='1960' THEN population else 0 end) as "Population 1960",
+SUM(case when county_population.year='1970' THEN population else 0 end) as "Population 1970",
+SUM(case when county_population.year='1980' THEN population else 0 end) as "Population 1980",
+SUM(case when county_population.year='1990' THEN population else 0 end) as "Population 1990",
+SUM(case when county_population.year='2000' THEN population else 0 end) as "Population 2000",
+SUM(case when county_population.year='2010' THEN population else 0 end) as "Population 2010"
+FROM county
+inner join county_population on (county.county_id = county_population.id_county)
+group by county.name
